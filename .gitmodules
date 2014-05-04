@@ -1,3 +1,6 @@
+[submodule "assets/2048"]
+	path = assets/2048
+	url = https://github.com/gabrielecirulli/2048.git
 git clone https://github.com/uberspot/2048-android.git
 cd 2048-android/
 git submodule update --recursive 
